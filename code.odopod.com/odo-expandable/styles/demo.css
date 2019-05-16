@@ -1,0 +1,31 @@
+.demo-expand-content {
+  display: none;
+}
+
+.demo-expand-content.odo-expandable__target--open {
+  display: block;
+}
+
+.demo-trigger {
+  width: 100%;
+}
+
+.some-accordion-content {
+  height: 0;
+  width: 100%;
+  overflow: hidden;
+  transition: height 0.3s ease-out;
+}
+
+.demo-trigger,
+.an-accordion-trigger {
+  width: 100%;
+  border-radius: 0;
+  padding: 20px 0;
+  border: 2px solid aquamarine;
+  font-size: 16px;
+}
+
+.an-accordion-trigger.odo-expandable__trigger--open {
+  border-color: rebeccapurple;
+}

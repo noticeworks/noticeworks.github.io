@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([["news"],{"./pages/news/index.js":function(s,n,e){"use strict";e.r(n);e("./js/main.js");var i=e("./modules/news-list/news-list.js");e("./pages/news/index.scss");i.a.initializeAll()},"./pages/news/index.scss":function(s,n,e){}},[["./pages/news/index.js","runtime","common"]]]);
+//# sourceMappingURL=news.20f276a1820f98b7ea4f.js.map
